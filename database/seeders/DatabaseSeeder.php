@@ -30,8 +30,9 @@ class DatabaseSeeder extends Seeder
             'Payments_methods_id' => 'cash',
             'description' => 'Cash',
             'image' => 'http://127.0.0.1:8000/storage/images/cash.png',
-            'status' => 1,
-            'api_token' => null]);
+            'status' => "active",
+            'api_token' => null
+        ]);
 
         Menu::create([
 

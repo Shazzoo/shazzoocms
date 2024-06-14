@@ -26,14 +26,6 @@
     <link href="https://demo.filamentphp.com/css/filament/support/support.css?v=3.2.33.0" rel="stylesheet"
         data-navigate-track />
 
-    <script type="text/javascript"
-        src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=IgpcinB49he83CyX6izCfY5hQbSOYlcUHq7hN3uPa7Xq2Cv3Gua8MtLMMi0q7dDIv6b7YM3QPsUZjUbAwDz9UbSvQXyxcVaEWYWOvIK-z5g"
-        charset="UTF-8"></script>
-
-
-
-
-
 
 
     <style>
