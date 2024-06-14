@@ -155,8 +155,6 @@ class InstallCMSCommand extends Command
                 }
             } else {
                 // Run the additional command only if migrations were successful
-                $this->runCommands(['php artisan app:mollie_pyments_methods_updater']);
-
                 if ($this->confirm('Do you want to create an admin user?', true)) {
                     $this->call('create:admin');
                 }
