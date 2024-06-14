@@ -16,8 +16,7 @@
     "require": {
         "php": "^8.2",
         "illuminate/contracts": "^10.0|^11.0",
-        "livewire/livewire": "^3.4",
-        "laravel/jetstream": "^5.1"
+        "livewire/livewire": "^3.4"
     },
 
         "require-dev": {
