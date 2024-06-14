@@ -55,10 +55,10 @@ class Orders extends Model
         return $this->belongsTo(Customer::class, 'customer_id', 'id');
     }
 
-    // public function shippingMethod()
-    // {
-    //     return $this->belongsTo(Shipping_methods::class, 'shipping_method', 'id');
-    // }
+    public function shippingMethod()
+    {
+        return $this->belongsTo(Shipping_methods::class, 'shipping_method', 'id');
+    }
 
     public function order_items()
     {
