@@ -320,7 +320,7 @@ class DropBlockEditor extends Component
         $this->blocks = $this->registerComponentsFromDirectory(
             BlockClass::class,
             $this->shazzoo_components,
-            app_path('View\Components\Blocks'),
+            app_path('View/Components/Blocks'),
             'App\View\Components\Blocks',
         );
 
